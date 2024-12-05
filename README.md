@@ -1,4 +1,4 @@
-![alt text](https://github.com/FadlanKaysanPermana/byogrive/blob/main/Foto%20Unitrive%201.jpg.jpeg?raw=true)
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -181,7 +181,7 @@
 
 <section id="gallery" class="gallery" style="display: none;">
     <h2>Galeri</h2>
-    <img src="Gambar/Foto Unitrive 1.jpg.jpeg" alt="Foto Unitrive 1">
+    ![alt text](https://github.com/FadlanKaysanPermana/byogrive/blob/main/Foto%20Unitrive%201.jpg.jpeg?raw=true)
     <img src="Gambar/Foto Unitrive 2.jpg.jpeg" alt="Foto Unitrive 2">
     <img src="Gambar/Foto Unitrive 3.jpg.jpeg" alt="Foto Unitrive 3">
     <img src="Gambar/Foto Unitrive 4.jpg.jpeg" alt="Foto Unitrive 4">
