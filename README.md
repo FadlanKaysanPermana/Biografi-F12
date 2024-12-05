@@ -181,11 +181,7 @@
 
 <section id="gallery" class="gallery" style="display: none;">
     <h2>Galeri</h2>
-    ![alt text](https://github.com/FadlanKaysanPermana/byogrive/blob/main/Foto%20Unitrive%201.jpg.jpeg?raw=true)
-    <img src="Gambar/Foto Unitrive 2.jpg.jpeg" alt="Foto Unitrive 2">
-    <img src="Gambar/Foto Unitrive 3.jpg.jpeg" alt="Foto Unitrive 3">
-    <img src="Gambar/Foto Unitrive 4.jpg.jpeg" alt="Foto Unitrive 4">
-    <img src="Gambar/Foto Unitrive 5.jpg.jpeg" alt="Foto Unitrive 5">
+   
 </section>
 
 <section id="works" class="works" style="display: none;">
