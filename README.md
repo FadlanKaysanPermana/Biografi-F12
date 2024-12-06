@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unitrive Smansa</title>
+    <title>Byogrive</title>
     <style>
         * {
             margin: 0;
@@ -161,8 +161,8 @@
         <a href="#" onclick="showSection('about')">Tentang Kami</a>
     </nav>
     <section id="home">
-        <h2>Dunia Unitrive</h2>
-        <p>Selamat datang di Dunia Unitrive, tempat Anda menemukan informasi terpercaya dan inspirasi seputar kelas kami. Kami berkomitmen memberikan konten berkualitas yang mudah diakses, membantu Anda menjelajahi berbagai topik dengan cepat dan efektif. Selamat menjelajah!</p>
+        <h2>Byogrive</h2>
+        <p>Selamat datang di Byogrive, tempat Anda menemukan informasi terpercaya dan inspirasi seputar kelas kami. Kami berkomitmen memberikan konten berkualitas yang mudah diakses, membantu Anda menjelajahi berbagai topik dengan cepat dan efektif. Selamat menjelajah!</p>
     </section>
     <section id="gallery" class="gallery" style="display: none;">
         <h2>Galeri</h2>
