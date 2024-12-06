@@ -173,15 +173,45 @@
         <img src="Gambar/Foto Unitrive 5.jpg.jpeg" alt="Foto Unitrive 5">
     </section>
     <section id="works" class="works" style="display: none;">
-        <h2>Karya</h2>
-        <div class="card-container">
-            <div class="card" onclick="showWorkDetails('FadlanKaysanPermana')"><h3>Aditya Sandi</h3></div>
-            <div class="card" onclick="showWorkDetails('kelompok2')"><h3>Alexa Daniel Herlambang</h3></div>
-            <div class="card" onclick="showWorkDetails('kelompok3')"><h3>Arga Tristan Hasiholan</h3></div>
-            <div class="card" onclick="showWorkDetails('kelompok4')"><h3>Cahya Awaludin</h3></div>
-            <div class="card" onclick="showWorkDetails('kelompok5')"><h3>Diva Juliyanti Putri</h3></div>
-        </div>
-    </section>
+    <h2>Karya</h2>
+    <div class="card-container">
+        <div class="card" onclick="showWorkDetails('AdityaSandi')"><h3>Aditya Sandi</h3></div>
+        <div class="card" onclick="showWorkDetails('AlexaDanielHerlambang')"><h3>Alexa Daniel Herlambang</h3></div>
+        <div class="card" onclick="showWorkDetails('ArgaTristanHasiholan')"><h3>Arga Tristan Hasiholan</h3></div>
+        <div class="card" onclick="showWorkDetails('CahyaAwaludin')"><h3>Cahya Awaludin</h3></div>
+        <div class="card" onclick="showWorkDetails('DivaJuliyantiPutri')"><h3>Diva Juliyanti Putri</h3></div>
+        <div class="card" onclick="showWorkDetails('FachriSuryaKemal')"><h3>Fachri Surya Kemal</h3></div>
+        <div class="card" onclick="showWorkDetails('FachrizalArshadBagus')"><h3>Fachrizal Arshad Bagus</h3></div>
+        <div class="card" onclick="showWorkDetails('FadlanKaysanPermana')"><h3>Fadlan Kaysan Permana</h3></div>
+        <div class="card" onclick="showWorkDetails('FajarMaulanaHidayat')"><h3>Fajar Maulana Hidayat</h3></div>
+        <div class="card" onclick="showWorkDetails('FarrelArkaYazid')"><h3>Farrel Arka Yazid</h3></div>
+        <div class="card" onclick="showWorkDetails('FitoDetimardarez')"><h3>Fito Detimardarez</h3></div>
+        <div class="card" onclick="showWorkDetails('FransiscaRoseMayuri')"><h3>Fransisca Rose Mayuri</h3></div>
+        <div class="card" onclick="showWorkDetails('ImanuelBenjaminPasaribu')"><h3>Imanuel Benjamin Pasaribu</h3></div>
+        <div class="card" onclick="showWorkDetails('IzmiAlifatushifa')"><h3>Izmi Alifatushifa</h3></div>
+        <div class="card" onclick="showWorkDetails('JovankaVeshaNdearly')"><h3>Jovanka Vesha Ndearly</h3></div>
+        <div class="card" onclick="showWorkDetails('MaritzaAnevayLituhayu')"><h3>Maritza Anevay Lituhayu</h3></div>
+        <div class="card" onclick="showWorkDetails('MedinaRahma')"><h3>Medina Rahma</h3></div>
+        <div class="card" onclick="showWorkDetails('MifdaKamiel')"><h3>Mifda Kamiel</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadNurIhsanFaizen')"><h3>Muhammad Nur Ihsan Faizen</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadFadhilSyahreza')"><h3>Muhammad Fadhil Syahreza</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadAtharRaidisa')"><h3>Muhammad Athar Raidisa</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadGunturWibowo')"><h3>Muhammad Guntur Wibowo</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadMulkiHakim')"><h3>Muhammad Mulki Hakim</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadNabilHisyam')"><h3>Muhammad Nabil Hisyam</h3></div>
+        <div class="card" onclick="showWorkDetails('MuhammadRizkiAnugrah')"><h3>Muhammad Rizki Anugrah</h3></div>
+        <div class="card" onclick="showWorkDetails('NadyaUlyaZaenal')"><h3>Nadya Ulya Zaenal</h3></div>
+        <div class="card" onclick="showWorkDetails('RadityaPratamaPutra')"><h3>Raditya Pratama Putra</h3></div>
+        <div class="card" onclick="showWorkDetails('RaffaMilanoPoetro')"><h3>Raffa Milano Poetro</h3></div>
+        <div class="card" onclick="showWorkDetails('ReniMardiyanti')"><h3>Reni Mardiyanti</h3></div>
+        <div class="card" onclick="showWorkDetails('RepiAgustin')"><h3>Repi Agustin</h3></div>
+        <div class="card" onclick="showWorkDetails('RizalBudiSampurno')"><h3>Rizal Budi Sampurno</h3></div>
+        <div class="card" onclick="showWorkDetails('SyahdaNaylaZakiyah')"><h3>Syahda Nayla Zakiyah</h3></div>
+        <div class="card" onclick="showWorkDetails('SyifaKurniaMeilani')"><h3>Syifa Kurnia Meilani</h3></div>
+        <div class="card" onclick="showWorkDetails('TasyaAzzahra')"><h3>Tasya Azzahra</h3></div>
+        <div class="card" onclick="showWorkDetails('ZahrahWahyuLathiifah')"><h3>Zahrah Wahyu Lathiifah</h3></div>
+    </div>
+</section>
     <footer>
         <p>Contact Service:</p>
         <p><a href="https://wa.me/6281214152634" target="_blank">Hubungi Fadlan Kaysan Permana di WhatsApp (0812-1415-2634)</a></p>
