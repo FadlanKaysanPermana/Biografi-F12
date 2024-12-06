@@ -228,7 +228,7 @@
             <h3>Fransisca Rose Mayuri</h3>
         </div>
 		<div class="card" onclick="showWorkDetails('kelompok6')">
-            <h3>Immanue Benjamin Pasaribu</h3>
+            <h3>Imanuel Benjamin Pasaribu</h3>
         </div>
 		<div class="card" onclick="showWorkDetails('kelompok6')">
             <h3>Izmi Alifatushifa</h3>
@@ -325,7 +325,13 @@
                 message = ": Alexa Daniel Herlambang: Web berita.";
                 break;
             case 'Arga Tristan Hasiholan':
-                message = "Kelompok 3: Web blog.";
+                message = "NISN : 0083428019 
+
+Nama : Arga Tristan Hasiholan Tambunan
+
+Tempat tinggal : Purwakarta
+
+Tanggal Lahir : 23 Februari 2008.";
                 break;
             case 'Cahya Awaludin':
                 message = "Kelompok 4: Web pesan Anonymous.";
