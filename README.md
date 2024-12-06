@@ -225,13 +225,6 @@
        function showWorkDetails(group) {
     let message = "";
     switch (group) {
-        case 'Arga Tristan Hasiholan':
-            message = `
-                <h3>Biografi Arga Tristan Hasiholan Tambunan</h3>
-                <p><strong>NISN:</strong> 0083428019</p>
-                <p><strong>Nama:</strong> Arga Tristan Hasiholan Tambunan</p>
-                <p><strong>Tempat Tinggal:</strong> Purwakarta</p>
-                <p><strong>Tanggal Lahir:</strong> 23 Februari 2008</p>
             `;
             break;
                 <h2>Biografi</h2>
