@@ -222,11 +222,9 @@
             document.getElementById(sectionId).style.display = 'block';
         }
 
-       function showWorkDetails(group) {
-    let message = "";
-    switch (group) {
-            `;
-            break;
+        function showWorkDetails(group) {
+            const message = group === 'kelompok2' ? 'Web berita.' : 'Belum Ada Informasi Tersedia.';
+            document.getElementById('works').innerHTML = `
                 <h2>Biografi</h2>
                 <p>${message}</p>
                 <button onclick="showSection('works')">Kembali</button>
