@@ -325,13 +325,7 @@
                 message = ": Alexa Daniel Herlambang: Web berita.";
                 break;
             case 'Arga Tristan Hasiholan':
-                message = "NISN : 0083428019 
-
-Nama : Arga Tristan Hasiholan Tambunan
-
-Tempat tinggal : Purwakarta
-
-Tanggal Lahir : 23 Februari 2008.";
+                message = "Belum ada.";
                 break;
             case 'Cahya Awaludin':
                 message = "Kelompok 4: Web pesan Anonymous.";
